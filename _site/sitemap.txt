@@ -1,0 +1,11 @@
+
+http://joberrr.github.io/puss-in-boots//archive.html
+http://joberrr.github.io/puss-in-boots//atom.xml
+http://joberrr.github.io/puss-in-boots//categories.html
+http://joberrr.github.io/puss-in-boots//index.html
+http://joberrr.github.io/puss-in-boots//pages.html
+http://joberrr.github.io/puss-in-boots//rss.xml
+http://joberrr.github.io/puss-in-boots//sitemap.txt
+http://joberrr.github.io/puss-in-boots//tags.html
+
+http://joberrr.github.io/puss-in-boots//lessons/2011/12/29/jekyll-introduction
