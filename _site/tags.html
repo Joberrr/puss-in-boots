@@ -18,6 +18,54 @@
     <!-- Le styles -->
     <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <style type="text/css">
+            /* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+#wrap > .container {
+  padding: 60px 15px 0;
+}
+.container .credit {
+  margin: 20px 0;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+</style>
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -34,6 +82,10 @@
   </head>
 
   <body>
+  	
+<!-- Wrap all page content here -->
+<div id="wrap">
+	
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
@@ -222,12 +274,17 @@
 
 
       </div>
-      <hr>
+    <hr>
+   </div>
+</div>
       <footer>
+      	<div id="footer">
+  <div class="container">
         <p>&copy; 2014 Jobe Roberts
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
+        </div>
       </footer>
 
     </div>
