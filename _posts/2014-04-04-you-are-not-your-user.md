@@ -2,7 +2,7 @@
 layout: post
 category : about
 tagline: "I know what I'd do next!"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [about, goals]
 ---
 {% include JB/setup %}
 
