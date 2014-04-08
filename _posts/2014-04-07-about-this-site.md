@@ -2,7 +2,7 @@
 layout: post
 category : about
 tagline: "a simple jekyll bootstrap site for testing purposes"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [about, info]
 ---
 {% include JB/setup %}
 
