@@ -9,7 +9,7 @@ tagline: Kitty? You are not as good as they say. You are better!
 
 [La Chat Botte](http://en.wikipedia.org/wiki/Puss_in_Boots) is a fairy tale about a cat written by Giovanni Francesco Straparola.
 
-This website is a place for me to gather code snippets to allow me to practice my [Jekyll](http://jekyllrb.com/) wizardry.
+This website is a place for me to gather code snippets and a place to allow me to practice my [Jekyll](http://jekyllrb.com/) wizardry.
 
 Yes, you should be amazed by such skills! ;-)
 
