@@ -8,9 +8,11 @@ tags : [intro, beginner, jekyll, tutorial]
 
 ## Who runs this show?
 
-My name is Jobe Roberts [Joberrr](http://twitter.com/joberrr) and I work for the Government of Canada in the Department of Fisheries and Oceans.
+My name is Jobe Roberts and I work for the Government of Canada in the Department of Fisheries and Oceans.
 
 Jekyll is new to me, I tend to use WordPress most often.  Getting better at Git.
+
+You can also find me on twitter:  [@joberrr](http://twitter.com/joberrr)
 
 ### Don't like what you see?  Have suggestions?
 

@@ -9,4 +9,4 @@ http://joberrr.github.io/puss-in-boots//sitemap.txt
 http://joberrr.github.io/puss-in-boots//tags.html
 
 http://joberrr.github.io/puss-in-boots//about/2014/04/07/about-this-site
-http://joberrr.github.io/puss-in-boots//lessons/2011/12/29/jekyll-introduction
+http://joberrr.github.io/puss-in-boots//about/2014/04/04/you-are-not-your-user
