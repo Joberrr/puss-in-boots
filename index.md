@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bonjour tout le monde!
+title: Ciao mondo!
 tagline: Kitty? You are not as good as they say. You are better!
 ---
 {% include JB/setup %}
