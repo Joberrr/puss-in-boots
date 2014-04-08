@@ -26,6 +26,6 @@ Yes, you should be amazed by such skills! ;-)
 
 1. Get used to writing [mark down](http://daringfireball.net/projects/markdown/syntax)
 2. Put a new banner up the top.  See a banner?  No not yet? ok.
-3. Post about this site on my twitter feed.  Don't see that yet either?
+3. Post about this site on [my twitter feed @ joberrr](http://twitter.com/joberrr).  Don't see that yet either?
 4. Re-connect the comments on this site, setup DISCUS account.
-5. Add most stuff to my to do list.
+5. Add more stuff to my to do list.
