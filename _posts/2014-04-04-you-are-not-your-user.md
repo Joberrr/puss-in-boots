@@ -9,10 +9,9 @@ tags : [intro, beginner, jekyll, tutorial]
 ## You are not your user
 
 Whether it be writing code or writing a web program it has been suggested that it's useful to have an audience or user in mind.
+ Right now that user is mostly me.  I know, this is a design faux-pas. [You are not your user](http://52weeksofux.com/post/385981879/you-are-not-your-user)
 
-Right now that user is mostly me.  I know, this is a design faux-pas. [You are not your user](http://52weeksofux.com/post/385981879/you-are-not-your-user)
-
-But seriously, this site is aimed at pleasing me mostly.
+But seriously, this site is aimed at pleasing me mostly.  So there you have it.
 
 ### Goals
 
