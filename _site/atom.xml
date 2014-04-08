@@ -4,13 +4,31 @@
  <title>Puss in boots - Jekyll Bootstrap</title>
  <link href="http://joberrr.github.io/puss-in-boots//" rel="self"/>
  <link href="http://joberrr.github.io/puss-in-boots/"/>
- <updated>2014-04-07T19:56:45-04:00</updated>
+ <updated>2014-04-07T20:28:52-04:00</updated>
  <id>http://joberrr.github.io/puss-in-boots/</id>
  <author>
    <name>Jobe Roberts</name>
    <email>Joberrr</email>
  </author>
 
+ 
+ <entry>
+   <title>About This Site</title>
+   <link href="http://joberrr.github.io/puss-in-boots//about/2014/04/07/about-this-site"/>
+   <updated>2014-04-07T00:00:00-04:00</updated>
+   <id>http://joberrr.github.io/puss-in-boots//about/2014/04/07/about-this-site</id>
+   <content type="html">&lt;h2 id=&quot;who_runs_this_show&quot;&gt;Who runs this show?&lt;/h2&gt;
+
+&lt;p&gt;My name is Jobe Roberts &lt;a href=&quot;http://twitter.com/joberrr&quot;&gt;Joberrr&lt;/a&gt; and I work for the Government of Canada in the Department of Fisheries and Oceans.&lt;/p&gt;
+
+&lt;p&gt;Jekyll is new to me, I tend to use WordPress most often. Getting better at Git.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont_like_what_you_see_have_suggestions&quot;&gt;Don’t like what you see? Have suggestions?&lt;/h3&gt;
+
+&lt;p&gt;Well, don’t hesitate, tell me what want me to know.&lt;/p&gt;
+
+&lt;h3 id=&quot;thats_all_folks&quot;&gt;&lt;em&gt;That’s all folks!&lt;/em&gt;&lt;/h3&gt;</content>
+ </entry>
  
  <entry>
    <title>Jekyll Introduction</title>

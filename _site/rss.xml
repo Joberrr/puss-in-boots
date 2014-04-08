@@ -5,10 +5,28 @@
         <description>Puss in boots - Jekyll Bootstrap - Jobe Roberts</description>
         <link>http://joberrr.github.io/puss-in-boots/</link>
         <link>http://joberrr.github.io/puss-in-boots/</link>
-        <lastBuildDate>2014-04-07T19:56:45-04:00</lastBuildDate>
-        <pubDate>2014-04-07T19:56:45-04:00</pubDate>
+        <lastBuildDate>2014-04-07T20:28:52-04:00</lastBuildDate>
+        <pubDate>2014-04-07T20:28:52-04:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>About This Site</title>
+                <description>&lt;h2 id=&quot;who_runs_this_show&quot;&gt;Who runs this show?&lt;/h2&gt;
+
+&lt;p&gt;My name is Jobe Roberts &lt;a href=&quot;http://twitter.com/joberrr&quot;&gt;Joberrr&lt;/a&gt; and I work for the Government of Canada in the Department of Fisheries and Oceans.&lt;/p&gt;
+
+&lt;p&gt;Jekyll is new to me, I tend to use WordPress most often. Getting better at Git.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont_like_what_you_see_have_suggestions&quot;&gt;Don’t like what you see? Have suggestions?&lt;/h3&gt;
+
+&lt;p&gt;Well, don’t hesitate, tell me what want me to know.&lt;/p&gt;
+
+&lt;h3 id=&quot;thats_all_folks&quot;&gt;&lt;em&gt;That’s all folks!&lt;/em&gt;&lt;/h3&gt;</description>
+                <link>http://joberrr.github.io/puss-in-boots//about/2014/04/07/about-this-site</link>
+                <guid>http://joberrr.github.io/puss-in-boots//about/2014/04/07/about-this-site</guid>
+                <pubDate>2014-04-07T00:00:00-04:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
