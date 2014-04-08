@@ -16,7 +16,7 @@ You can also find me on twitter:  [@joberrr](http://twitter.com/joberrr)
 
 ### Don't like what you see?  Have suggestions?
 
-Well, don't hesitate, tell me what want me to know.
+Well, don't hesitate, tell me what you want me to know.
 
 ### *That's all folks!*
 
