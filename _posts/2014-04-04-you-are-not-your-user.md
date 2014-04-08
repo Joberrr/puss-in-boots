@@ -6,7 +6,7 @@ tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
-## You are not your user
+## I design this site for my own selfish reasons
 
 Whether it be writing code or writing a web program it has been suggested that it's useful to have an audience or user in mind.
  Right now that user is mostly me.  I know, this is a design faux-pas. [You are not your user](http://52weeksofux.com/post/385981879/you-are-not-your-user)
