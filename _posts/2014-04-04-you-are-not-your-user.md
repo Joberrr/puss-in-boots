@@ -17,7 +17,7 @@ But seriously, this site is aimed at pleasing me mostly.  So there you have it.
 
 I'd love to manage to get simplenote.js running on this site.  That'd be cool.
 
-I'd also like to get another comments engine running besides DISCUS.  This should be very easy for me to change.
+Activate Disqus
 
 I just have to find the right line in the "_config.yml" I think.  
 

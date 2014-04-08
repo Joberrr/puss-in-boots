@@ -4,7 +4,7 @@
  <title>Puss in boots - Jekyll Bootstrap</title>
  <link href="http://joberrr.github.io/puss-in-boots//" rel="self"/>
  <link href="http://joberrr.github.io/puss-in-boots/"/>
- <updated>2014-04-08T12:22:00-04:00</updated>
+ <updated>2014-04-08T12:26:38-04:00</updated>
  <id>http://joberrr.github.io/puss-in-boots/</id>
  <author>
    <name>Jobe Roberts</name>
@@ -73,7 +73,7 @@
 
 &lt;p&gt;I’d love to manage to get simplenote.js running on this site. That’d be cool.&lt;/p&gt;
 
-&lt;p&gt;I’d also like to get another comments engine running besides DISCUS. This should be very easy for me to change.&lt;/p&gt;
+&lt;p&gt;Activate Disqus&lt;/p&gt;
 
 &lt;p&gt;I just have to find the right line in the “_config.yml” I think.&lt;/p&gt;
 
