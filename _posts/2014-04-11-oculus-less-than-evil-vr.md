@@ -8,7 +8,7 @@ tags : [gadgets, vr]
 
 ## Oculus VR recently purchased by Facebook for $2 billion
 
-The other night, I was privaledged to have had the opportunity to try out the new [Oculus Rift](http://www.oculusvr.com/) devkit.
+The other night, I was privileged to have had the opportunity to try out the new [Oculus Rift](http://www.oculusvr.com/) devkit.
 
 It was surprising just how much you actually feel like you're in this virtual space, as you pan around the graphics match exactly what you'd see in the virtual space.  Er.. you really have to try it to see what I mean.
 
