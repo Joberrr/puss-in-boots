@@ -10,7 +10,7 @@ tags : [gadgets, vr]
 
 The other night, I was privaledged to have had the opportunity to try out the new [Oculus Rift](http://www.oculusvr.com/) devkit.
 
-It was surprising just how much you actually feel like you're in this virtual space, as you pan around the graphics match exactually what you'd see in the virtual space.  Er.. you really have to try it to see what I mean.
+It was surprising just how much you actually feel like you're in this virtual space, as you pan around the graphics match exactly what you'd see in the virtual space.  Er.. you really have to try it to see what I mean.
 
 Lots of fun, I haven't tried anything like that before.  I kept trying to touch things that were in front of me.  It was weird not to see your own hands though.  As I understand someone is working on gloves to interface with it.
 
