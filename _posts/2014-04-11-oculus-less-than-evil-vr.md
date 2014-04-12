@@ -10,7 +10,7 @@ tags : [gadgets, vr]
 
 The other night, I was privileged to have had the opportunity to try out the new [Oculus Rift](http://www.oculusvr.com/) devkit.
 
-It was surprising just how much you actually feel like you're in this virtual space, as you pan around the graphics match exactly what you'd see in the virtual space.  Er.. you really have to try it to see what I mean.
+It was surprising just how much you actually feel like you\'re in this virtual space, as you pan around the graphics match exactly what you\'d see in the virtual space.  Er.. you really have to try it to see what I mean.
 
 Lots of fun, I haven't tried anything like that before.  I kept trying to touch things that were in front of me.  It was weird not to see your own hands though.  As I understand someone is working on gloves to interface with it.
 
@@ -24,6 +24,6 @@ Check it out here: [Blockabout](http://blockabout.ca/index.php?Lang=En&ID=1)
 
 ### the Star Trek holodeck
 
-If you're on the virtual Star Trek enterprise go to the [holodeck](http://en.wikipedia.org/wiki/Holodeck) to experience virtual reality within a virtual reality game.  
+If you\'re viewing the virtual Star Trek enterprise via your VR goggles go to the [holodeck](http://en.wikipedia.org/wiki/Holodeck) to experience virtual reality within a virtual reality game.  Mind blowing! ![img](http://emoticons4u.com/happy/010.gif)
 
 #### warning: may experience dizziness.
