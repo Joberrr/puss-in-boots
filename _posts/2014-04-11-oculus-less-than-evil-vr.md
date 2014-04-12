@@ -6,7 +6,7 @@ tags : [gadgets, vr]
 ---
 {% include JB/setup %}
 
-## Oculus VR recently purchased by Facebook for $2 billion
+## Oculus VR was recently purchased by Facebook for $2 billion
 
 The other night, I was privileged to have had the opportunity to try out the new [Oculus Rift](http://www.oculusvr.com/) devkit.
 
