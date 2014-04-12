@@ -11,5 +11,3 @@ tags : [photo, cat]
 He used to bark a lot when he was a kitten.  Now that only happens when you pet his belly.
 
 ![Bubba my cat](https://farm1.staticflickr.com/124/347940223_29fe195936_q.jpg)
-
-
