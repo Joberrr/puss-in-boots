@@ -8,7 +8,7 @@ http://joberrr.github.io/puss-in-boots//rss.xml
 http://joberrr.github.io/puss-in-boots//sitemap.txt
 http://joberrr.github.io/puss-in-boots//tags.html
 
-http://joberrr.github.io/puss-in-boots//news/2014/04/11/oculus-evil-vr
+http://joberrr.github.io/puss-in-boots//virtual%20reality/2014/04/11/oculus-evil-vr
 http://joberrr.github.io/puss-in-boots//lock-down/2014/04/08/lock-down-extremola
 http://joberrr.github.io/puss-in-boots//about/2014/04/07/about-this-site
 http://joberrr.github.io/puss-in-boots//about/2014/04/04/you-are-not-your-user

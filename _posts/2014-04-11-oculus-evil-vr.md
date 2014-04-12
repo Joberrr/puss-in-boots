@@ -1,6 +1,6 @@
 ---
 layout: post
-category : news
+category : virtual reality
 tagline: "the evil virtual reality"
 tags : [gadgets, vr]
 ---
