@@ -4,13 +4,57 @@
  <title>Puss in boots - Jekyll Bootstrap</title>
  <link href="http://joberrr.github.io/puss-in-boots//" rel="self"/>
  <link href="http://joberrr.github.io/puss-in-boots/"/>
- <updated>2014-04-15T20:27:23-04:00</updated>
+ <updated>2014-05-03T19:24:42-04:00</updated>
  <id>http://joberrr.github.io/puss-in-boots/</id>
  <author>
    <name>Jobe Roberts</name>
    <email>Joberrr</email>
  </author>
 
+ 
+ <entry>
+   <title>Wordcamp Ottawa 2014</title>
+   <link href="http://joberrr.github.io/puss-in-boots//events/2014/05/03/WordCamp-Ottawa-2014"/>
+   <updated>2014-05-03T00:00:00-04:00</updated>
+   <id>http://joberrr.github.io/puss-in-boots//events/2014/05/03/WordCamp-Ottawa-2014</id>
+   <content type="html">&lt;h2 id=&quot;wordcamp_ottawa_started_off_with_a_zurb&quot;&gt;WordCamp Ottawa started off with a ZURB&lt;/h2&gt;
+
+&lt;p&gt;Speaker Brendan Sera-Shriar of &lt;a href=&quot;http://www.thebrendans.com/&quot;&gt;theBrendans&lt;/a&gt; was pretty funny and very relaxed. His talk aimed to convince us to use the Zurb Foundation framework which uses SASS, font icons, and zepto.js&lt;/p&gt;
+
+&lt;p&gt;It all sounded quite impressive and it seems well worth the effort to first design for the little mobile interface and then scale up to your 50” TVs.&lt;/p&gt;
+
+&lt;p&gt;This code began from a mobile app perspective but it also produces excellent responsive web pages you can put on your WordPress site. I’ll have to give it a try.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src='/images/wordpress-pin.jpg' /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;false_floors_and_cake_layers&quot;&gt;False floors and cake layers&lt;/h3&gt;
+
+&lt;p&gt;New jargon to learn about. Do you know where to find the hamburger icon? Do you use it very often?&lt;/p&gt;
+
+&lt;p&gt;There were just so many wonderful presentations to see, 32 in all on Saturday, fortunately WordCamp continues again tomorrow at noon.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to more great stuff.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Old Bar B Q</title>
+   <link href="http://joberrr.github.io/puss-in-boots//reuse/2014/04/28/old-bar-b-q"/>
+   <updated>2014-04-28T00:00:00-04:00</updated>
+   <id>http://joberrr.github.io/puss-in-boots//reuse/2014/04/28/old-bar-b-q</id>
+   <content type="html">&lt;h2 id=&quot;im_going_to_ditch_my_old_barbq&quot;&gt;I’m going to ditch my old bar-b-q.&lt;/h2&gt;
+
+&lt;p&gt;It still works, but it’s getting pretty rusted inside.&lt;/p&gt;
+
+&lt;p&gt;It’s hard to judge these things; probably when there are flames shooting out the bottom it’s time to stop using your old bar-b-q.&lt;/p&gt;
+
+&lt;p&gt;I’m going to push it out front and put a ‘free’ sign on it. Somebody will no doubt pick it up.&lt;/p&gt;
+
+&lt;h3 id=&quot;peak_metal&quot;&gt;Peak metal&lt;/h3&gt;
+
+&lt;p&gt;We’re going to be digging up less and less metal because there’s less of it to dig up. Not sure how recycling factors in.&lt;/p&gt;
+
+&lt;p&gt;Makes me wonder if I should recycle my bar-b-q, lots of shiny metal still left in her.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Oculus Less Than Evil Vr</title>
