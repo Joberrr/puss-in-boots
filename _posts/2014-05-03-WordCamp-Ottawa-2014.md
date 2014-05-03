@@ -14,7 +14,7 @@ It all sounded quite impressive and it seems well worth the effort to first desi
 
 This code began from a mobile app perspective but it also produces excellent responsive web pages you can put on your WordPress site.  I'll have to give it a try.
 
-<img src="/images/wordpress-pin.jpg" />
+<img src="http://joberrr.github.io/puss-in-boots/images/wordpress-pin.jpg" />
 
 ### False floors and cake layers
 
