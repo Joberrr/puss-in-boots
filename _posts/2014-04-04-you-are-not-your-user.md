@@ -2,7 +2,7 @@
 layout: post
 category : about
 tagline: "I know what I'd do next!"
-tags : [about, goals]
+tags : [about, UX]
 ---
 {% include JB/setup %}
 
