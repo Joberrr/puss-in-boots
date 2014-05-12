@@ -8,6 +8,7 @@ http://joberrr.github.io/puss-in-boots//rss.xml
 http://joberrr.github.io/puss-in-boots//sitemap.txt
 http://joberrr.github.io/puss-in-boots//tags.html
 
+http://joberrr.github.io/puss-in-boots//reuse/2014/05/11/more-about-the-bar-b-q
 http://joberrr.github.io/puss-in-boots//events/2014/05/03/WordCamp-Ottawa-2014
 http://joberrr.github.io/puss-in-boots//reuse/2014/04/28/old-bar-b-q
 http://joberrr.github.io/puss-in-boots//virtual%20reality/2014/04/11/oculus-less-than-evil-vr
