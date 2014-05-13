@@ -16,8 +16,8 @@ Those of you in favour of getting a new Bar B Q let me know why I should.
 
 ### China Super Smog
 
-Here in Gatineau we have beautiful weather and blue skies today.  We are so fortunate.  I cannot imagine living in cities with so much smog.
+Here in Gatineau we have beautiful weather and blue skies today.  We are so fortunate.  I cannot imagine living in cities with so much smog.  It's so thick you can barely see through it.
 
-It's so thick you can barely see through it.  You know we're all connected on this spaceship earth.  Burning coal is unecessary when you could be burning Thorium.
+You know we're all connected on this spaceship earth.  Burning coal is unecessary when you could be burning Thorium.
 
-Converting coal into a clean energy source is possible, but why when safe nuclear is possible and cheaper?
+Safe nuclear is possible and cheaper than coal.
